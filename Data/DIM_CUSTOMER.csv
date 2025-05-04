@@ -1,0 +1,666 @@
+CUSTOMER_ID,CUSTOMER_NAME,SEGMENT,CUSTOMER_TYPE,REPEAT_CUSTOMER_FLAG
+CG-12520,Claire Gute,Consumer,B2C,0
+IM-15070,Irene Maddox,Consumer,B2C,1
+GH-14485,Gene Hale,Corporate,B2B,0
+KD-16270,Karen Daniels,Consumer,B2C,1
+KB-16600,Ken Brennan,Corporate,B2B,1
+JC-16105,Julie Creighton,Corporate,B2B,1
+GM-14455,Gary Mitchum,Home Office,B2C,1
+RB-19705,Roger Barcio,Home Office,B2C,0
+PN-18775,Parhena Norris,Home Office,B2C,1
+ER-13855,Elpida Rittenbach,Corporate,B2B,1
+CL-12565,Clay Ludtke,Consumer,B2C,1
+TS-21610,Troy Staebel,Consumer,B2C,1
+JD-15895,Jonathan Doherty,Corporate,B2B,1
+HA-14920,Helen Andreada,Consumer,B2C,1
+DB-13060,Dave Brooks,Consumer,B2C,1
+CS-12130,Chad Sievert,Consumer,B2C,0
+DK-13150,David Kendrick,Corporate,B2B,0
+JH-15985,Joseph Holt,Consumer,B2C,1
+CS-12400,Christopher Schild,Home Office,B2C,1
+KL-16645,Ken Lonsdale,Consumer,B2C,1
+CC-12670,Craig Carreira,Consumer,B2C,1
+DB-13615,Doug Bickford,Consumer,B2C,1
+PK-19075,Pete Kriz,Consumer,B2C,1
+MG-18145,Mike Gockenbach,Consumer,B2C,1
+BD-11500,Bradley Drucker,Consumer,B2C,0
+BD-11725,Bruce Degenhardt,Consumer,B2C,1
+AA-10375,Allen Armold,Consumer,B2C,1
+LC-17140,Logan Currie,Consumer,B2C,1
+BM-11140,Becky Martin,Consumer,B2C,1
+JO-15280,Jas O'Carroll,Consumer,B2C,0
+TD-20995,Tamara Dahlen,Consumer,B2C,0
+DK-12985,Darren Koutras,Consumer,B2C,1
+AJ-10945,Ashley Jarboe,Consumer,B2C,1
+EB-13840,Ellis Ballard,Corporate,B2B,1
+GT-14635,Grant Thornton,Corporate,B2B,1
+MO-17500,Mary O'Rourke,Consumer,B2C,1
+MP-17965,Michael Paige,Corporate,B2B,1
+VW-21775,Victoria Wilson,Corporate,B2B,1
+VB-21745,Victoria Brennan,Corporate,B2B,1
+XP-21865,Xylona Preis,Consumer,B2C,1
+JF-15490,Jeremy Farry,Consumer,B2C,1
+BM-11785,Bryan Mills,Consumer,B2C,1
+GZ-14470,Gary Zandusky,Consumer,B2C,1
+RB-19360,Raymond Buch,Consumer,B2C,0
+JC-15340,Jasper Cacioppo,Consumer,B2C,1
+SF-20200,Sarah Foster,Consumer,B2C,1
+DJ-13420,Denny Joy,Corporate,B2B,1
+PC-18745,Pamela Coakley,Corporate,B2B,0
+KH-16630,Ken Heidel,Corporate,B2B,1
+TH-21235,Tiffany House,Corporate,B2B,1
+DP-13165,David Philippe,Consumer,B2C,0
+PK-18910,Paul Knutson,Home Office,B2C,1
+LR-16915,Lena Radford,Consumer,B2C,1
+DL-13315,Delfina Latchford,Consumer,B2C,1
+ZC-21910,Zuschuss Carroll,Consumer,B2C,1
+ML-17755,Max Ludwig,Home Office,B2C,1
+CS-12460,Chuck Sachs,Consumer,B2C,1
+DM-13015,Darrin Martin,Consumer,B2C,1
+GM-14440,Gary McGarr,Consumer,B2C,0
+JJ-15760,Joel Jenkins,Home Office,B2C,1
+GM-14695,Greg Maxwell,Corporate,B2B,1
+CC-12145,Charles Crestani,Consumer,B2C,0
+EB-13975,Erica Bern,Corporate,B2B,1
+GG-14650,Greg Guthrie,Corporate,B2B,1
+LS-16975,Lindsay Shagiari,Home Office,B2C,1
+TT-21070,Ted Trevino,Consumer,B2C,1
+BS-11755,Bruce Stewart,Consumer,B2C,1
+AS-10225,Alan Schoenberger,Corporate,B2B,1
+KH-16510,Keith Herrera,Consumer,B2C,1
+MS-17830,Melanie Seite,Consumer,B2C,1
+AJ-10795,Anthony Johnson,Corporate,B2B,0
+BS-11590,Brendan Sweed,Corporate,B2B,1
+MJ-17740,Max Jones,Consumer,B2C,1
+CR-12625,Corey Roper,Home Office,B2C,0
+SP-20860,Sung Pak,Corporate,B2B,1
+JP-15520,Jeremy Pistek,Consumer,B2C,1
+AP-10915,Arthur Prichep,Consumer,B2C,1
+JL-15175,James Lanier,Home Office,B2C,1
+EM-14095,Eudokia Martin,Corporate,B2B,1
+CK-12760,Cyma Kinney,Corporate,B2B,1
+RC-19960,Ryan Crowe,Consumer,B2C,1
+RA-19885,Ruben Ausman,Corporate,B2B,1
+KH-16360,Katherine Hughes,Consumer,B2C,1
+KC-16255,Karen Carlisle,Corporate,B2B,1
+CC-12430,Chuck Clark,Home Office,B2C,1
+ON-18715,Odella Nelson,Corporate,B2B,1
+JE-16165,Justin Ellison,Corporate,B2B,0
+PO-19195,Phillina Ober,Home Office,B2C,1
+GP-14740,Guy Phonely,Corporate,B2B,0
+NM-18445,Nathan Mautz,Home Office,B2C,1
+AB-10060,Adam Bellavance,Home Office,B2C,1
+DK-13225,Dean Katz,Corporate,B2B,1
+AG-10675,Anna Gayman,Consumer,B2C,1
+KB-16240,Karen Bern,Corporate,B2B,1
+DV-13465,Dianna Vittorini,Consumer,B2C,1
+RC-19825,Roy Collins,Consumer,B2C,1
+AS-10285,Alejandro Savely,Corporate,B2B,1
+EG-13900,Emily Grady,Consumer,B2C,1
+YC-21895,Yoseph Carroll,Corporate,B2B,1
+EP-13915,Emily Phan,Consumer,B2C,1
+BB-10990,Barry Blumstein,Corporate,B2B,1
+RA-19915,Russell Applegate,Consumer,B2C,0
+EB-13705,Ed Braxton,Corporate,B2B,1
+GA-14725,Guy Armstrong,Consumer,B2C,1
+RK-19300,Ralph Kennedy,Consumer,B2C,0
+TS-21340,Toby Swindell,Consumer,B2C,0
+AT-10735,Annie Thurman,Consumer,B2C,1
+NF-18595,Nicole Fjeld,Home Office,B2C,1
+LC-16870,Lena Cacioppo,Consumer,B2C,1
+JS-15940,Joni Sundaresam,Home Office,B2C,1
+LT-16765,Larry Tron,Consumer,B2C,1
+KC-16540,Kelly Collister,Consumer,B2C,0
+SA-20830,Sue Ann Reed,Consumer,B2C,1
+AA-10315,Alex Avila,Consumer,B2C,1
+JK-16120,Julie Kriz,Home Office,B2C,1
+JB-15400,Jennifer Braxton,Corporate,B2B,1
+AA-10480,Andrew Allen,Consumer,B2C,0
+CM-12655,Corinna Mitchell,Home Office,B2C,1
+GH-14425,Gary Hwang,Consumer,B2C,0
+CM-12190,Charlotte Melton,Consumer,B2C,1
+RP-19390,Resi Pölking,Consumer,B2C,1
+JF-15565,Jill Fjeld,Consumer,B2C,1
+MZ-17515,Mary Zewe,Corporate,B2B,1
+LT-17110,Liz Thompson,Consumer,B2C,1
+MK-17905,Michael Kennedy,Corporate,B2B,0
+FM-14215,Filia McAdams,Corporate,B2B,1
+TM-21010,Tamara Manning,Consumer,B2C,0
+MD-17350,Maribeth Dona,Consumer,B2C,1
+RF-19840,Roy Französisch,Consumer,B2C,0
+MZ-17335,Maria Zettner,Home Office,B2C,0
+SG-20605,Speros Goranitis,Consumer,B2C,1
+RH-19555,Ritsa Hightower,Consumer,B2C,0
+NS-18505,Neola Schneider,Consumer,B2C,0
+MC-17635,Matthew Clasen,Corporate,B2B,0
+NZ-18565,Nick Zandusky,Home Office,B2C,1
+CY-12745,Craig Yedwab,Corporate,B2B,1
+TS-21505,Tony Sayre,Consumer,B2C,1
+MS-17710,Maurice Satty,Consumer,B2C,0
+PT-19090,Pete Takahito,Consumer,B2C,0
+BP-11095,Bart Pistole,Corporate,B2B,1
+BE-11335,Bill Eplett,Home Office,B2C,0
+KC-16675,Kimberly Carter,Corporate,B2B,0
+SC-20695,Steve Chapman,Corporate,B2B,1
+RW-19630,Rob Williams,Corporate,B2B,1
+BS-11800,Bryan Spruell,Home Office,B2C,0
+NC-18340,Nat Carroll,Consumer,B2C,1
+BD-11770,Bryan Davis,Consumer,B2C,1
+LW-16825,Laurel Workman,Corporate,B2B,1
+HP-14815,Harold Pawlan,Home Office,B2C,1
+YS-21880,Yana Sorensen,Corporate,B2B,1
+VM-21685,Valerie Mitchum,Home Office,B2C,1
+AW-10840,Anthony Witt,Consumer,B2C,1
+MB-18085,Mick Brown,Consumer,B2C,1
+SV-20365,Seth Vernon,Consumer,B2C,1
+BF-11020,Barry Französisch,Corporate,B2B,1
+RA-19285,Ralph Arnett,Consumer,B2C,1
+RD-19585,Rob Dowd,Consumer,B2C,1
+BF-10975,Barbara Fisher,Corporate,B2B,1
+NG-18355,Nat Gilpin,Corporate,B2B,0
+BF-11005,Barry Franz,Home Office,B2C,0
+BP-11155,Becky Pak,Consumer,B2C,1
+TC-20980,Tamara Chand,Corporate,B2B,1
+AF-10870,Art Ferguson,Consumer,B2C,1
+DW-13585,Dorothy Wardle,Corporate,B2B,1
+HL-15040,Hunter Lopez,Consumer,B2C,1
+AB-10150,Aimee Bixby,Consumer,B2C,1
+BE-11455,Brad Eason,Home Office,B2C,1
+DK-13090,Dave Kipp,Consumer,B2C,1
+HK-14890,Heather Kirkland,Corporate,B2B,1
+DJ-13510,Don Jones,Corporate,B2B,1
+MP-17470,Mark Packer,Home Office,B2C,1
+TH-21550,Tracy Hopkins,Home Office,B2C,0
+BK-11260,Berenike Kampe,Consumer,B2C,1
+JR-16210,Justin Ritter,Corporate,B2B,0
+Dl-13600,Dorris liebe,Corporate,B2B,1
+RF-19735,Roland Fjeld,Consumer,B2C,1
+CV-12805,Cynthia Voltz,Corporate,B2B,1
+KM-16225,Kalyca Meade,Corporate,B2B,1
+BD-11620,Brian DeCherney,Consumer,B2C,1
+CS-12355,Christine Sundaresam,Consumer,B2C,1
+GB-14530,George Bell,Corporate,B2B,1
+PM-18940,Paul MacIntyre,Consumer,B2C,1
+TR-21325,Toby Ritter,Consumer,B2C,1
+KW-16435,Katrina Willman,Consumer,B2C,0
+AB-10600,Ann Blume,Corporate,B2B,0
+VD-21670,Valerie Dominguez,Consumer,B2C,1
+PP-18955,Paul Prost,Home Office,B2C,1
+SD-20485,Shirley Daniels,Home Office,B2C,0
+PW-19030,Pauline Webber,Corporate,B2B,1
+MK-18160,Mike Kennedy,Consumer,B2C,1
+PC-19000,Pauline Chand,Home Office,B2C,0
+CB-12535,Claudia Bergmann,Corporate,B2B,1
+PG-18820,Patrick Gardner,Consumer,B2C,1
+TT-21460,Tonja Turnell,Home Office,B2C,1
+SC-20770,Stewart Carmichael,Corporate,B2B,0
+RM-19375,Raymond Messe,Consumer,B2C,1
+DK-13375,Dennis Kane,Consumer,B2C,0
+GM-14680,Greg Matthias,Consumer,B2C,0
+PJ-18835,Patrick Jones,Corporate,B2B,1
+CS-12250,Chris Selesnick,Corporate,B2B,1
+EN-13780,Edward Nazzal,Consumer,B2C,0
+DR-12940,Daniel Raglin,Home Office,B2C,1
+MC-17575,Matt Collins,Consumer,B2C,1
+MY-17380,Maribeth Yedwab,Corporate,B2B,1
+DL-13330,Denise Leinenbach,Consumer,B2C,0
+LH-17020,Lisa Hazard,Consumer,B2C,1
+SH-20395,Shahid Hopkins,Consumer,B2C,1
+JL-15130,Jack Lebron,Consumer,B2C,0
+SJ-20215,Sarah Jordon,Consumer,B2C,1
+CL-11890,Carl Ludwig,Consumer,B2C,1
+KE-16420,Katrina Edelman,Corporate,B2B,1
+SJ-20125,Sanjit Jacobs,Home Office,B2C,1
+LP-17080,Liz Pelletier,Consumer,B2C,0
+DC-13285,Debra Catini,Consumer,B2C,0
+CA-12775,Cynthia Arntzen,Consumer,B2C,0
+DW-13480,Dianna Wilson,Home Office,B2C,1
+RB-19570,Rob Beeghly,Consumer,B2C,1
+CK-12325,Christine Kargatis,Home Office,B2C,1
+MC-17845,Michael Chen,Consumer,B2C,1
+EB-13870,Emily Burns,Consumer,B2C,1
+MT-17815,Meg Tillman,Consumer,B2C,0
+DG-13300,Deirdre Greer,Corporate,B2B,1
+PA-19060,Pete Armstrong,Home Office,B2C,0
+AP-10720,Anne Pryor,Home Office,B2C,0
+CC-12220,Chris Cortes,Consumer,B2C,1
+PF-19225,Phillip Flathmann,Consumer,B2C,1
+AD-10180,Alan Dominguez,Home Office,B2C,1
+QJ-19255,Quincy Jones,Corporate,B2B,1
+LP-17095,Liz Preis,Consumer,B2C,1
+AB-10255,Alejandro Ballentine,Home Office,B2C,1
+AS-10045,Aaron Smayling,Corporate,B2B,1
+MG-17890,Michael Granlund,Home Office,B2C,1
+KM-16720,Kunst Miller,Consumer,B2C,1
+NM-18520,Neoma Murray,Consumer,B2C,1
+JD-15790,John Dryer,Consumer,B2C,1
+TB-21400,Tom Boeckenhauer,Consumer,B2C,1
+DB-13270,Deborah Brumfield,Home Office,B2C,1
+SW-20455,Shaun Weien,Consumer,B2C,1
+SC-20725,Steven Cartwright,Consumer,B2C,1
+CD-12790,Cynthia Delaney,Home Office,B2C,0
+FO-14305,Frank Olsen,Consumer,B2C,1
+FA-14230,Frank Atkinson,Corporate,B2B,1
+JE-15715,Joe Elijah,Consumer,B2C,1
+AC-10615,Ann Chong,Corporate,B2B,0
+NG-18430,Nathan Gelder,Consumer,B2C,1
+ND-18460,Neil Ducich,Corporate,B2B,0
+SC-20800,Stuart Calhoun,Consumer,B2C,0
+EH-14005,Erica Hernandez,Home Office,B2C,1
+CJ-12010,Caroline Jumper,Consumer,B2C,1
+SM-20320,Sean Miller,Home Office,B2C,0
+JL-15850,John Lucas,Consumer,B2C,1
+RS-19420,Ricardo Sperren,Corporate,B2B,1
+SV-20935,Susan Vittorini,Consumer,B2C,1
+AM-10360,Alice McCarthy,Corporate,B2B,1
+AS-10630,Ann Steele,Home Office,B2C,1
+MS-17365,Maribeth Schnelling,Consumer,B2C,1
+JE-15745,Joel Eaton,Consumer,B2C,1
+JF-15190,Jamie Frazer,Consumer,B2C,1
+SC-20440,Shaun Chance,Corporate,B2B,1
+FH-14275,Frank Hawley,Corporate,B2B,1
+AC-10450,Amy Cox,Consumer,B2C,0
+IL-15100,Ivan Liston,Consumer,B2C,1
+CG-12040,Catherine Glotzbach,Home Office,B2C,1
+MV-17485,Mark Van Huff,Consumer,B2C,1
+DB-12910,Daniel Byrd,Home Office,B2C,1
+RR-19525,Rick Reed,Corporate,B2B,1
+TC-21295,Toby Carlisle,Consumer,B2C,1
+EH-13945,Eric Hoffmann,Consumer,B2C,1
+FM-14380,Fred McMath,Consumer,B2C,0
+BT-11680,Brian Thompson,Consumer,B2C,0
+BP-11290,Beth Paige,Consumer,B2C,0
+AF-10885,Art Foster,Consumer,B2C,0
+DL-12925,Daniel Lacy,Consumer,B2C,1
+JM-16195,Justin MacKendrick,Consumer,B2C,1
+CT-11995,Carol Triggs,Consumer,B2C,1
+GT-14710,Greg Tran,Consumer,B2C,0
+VP-21730,Victor Preis,Home Office,B2C,0
+ZD-21925,Zuschuss Donatelli,Consumer,B2C,1
+KF-16285,Karen Ferguson,Home Office,B2C,1
+TC-21475,Tony Chapman,Home Office,B2C,1
+KB-16405,Katrina Bavinger,Home Office,B2C,1
+JE-15610,Jim Epp,Corporate,B2B,0
+RD-19810,Ross DeVincentis,Home Office,B2C,1
+GH-14410,Gary Hansen,Home Office,B2C,1
+BM-11650,Brian Moss,Corporate,B2B,1
+ML-18040,Michelle Lonsdale,Corporate,B2B,0
+JP-15460,Jennifer Patt,Corporate,B2B,0
+PS-19045,Penelope Sewall,Home Office,B2C,1
+DC-12850,Dan Campbell,Consumer,B2C,1
+EJ-14155,Eva Jacobs,Consumer,B2C,1
+JF-15415,Jennifer Ferguson,Consumer,B2C,1
+BO-11350,Bill Overfelt,Corporate,B2B,1
+FP-14320,Frank Preis,Consumer,B2C,1
+BW-11110,Bart Watters,Corporate,B2B,0
+NS-18640,Noel Staavos,Corporate,B2B,1
+LW-16990,Lindsay Williams,Corporate,B2B,1
+LH-16750,Larry Hughes,Consumer,B2C,0
+DB-13120,David Bremer,Corporate,B2B,1
+AG-10900,Arthur Gainer,Consumer,B2C,1
+LF-17185,Luke Foster,Consumer,B2C,1
+CS-11950,Carlos Soltero,Consumer,B2C,1
+NP-18700,Nora Preis,Consumer,B2C,1
+MS-17530,MaryBeth Skach,Consumer,B2C,1
+MO-17950,Michael Oakman,Consumer,B2C,1
+MD-17860,Michael Dominguez,Corporate,B2B,0
+BC-11125,Becky Castell,Home Office,B2C,1
+TT-21220,Thomas Thornton,Consumer,B2C,1
+CM-12160,Charles McCrossin,Consumer,B2C,0
+DF-13135,David Flashing,Consumer,B2C,0
+JJ-15445,Jennifer Jackson,Consumer,B2C,1
+RB-19435,Richard Bierner,Consumer,B2C,1
+EM-14140,Eugene Moren,Home Office,B2C,1
+DV-13045,Darrin Van Huff,Corporate,B2B,0
+MG-17875,Michael Grace,Home Office,B2C,1
+DM-13345,Denise Monton,Corporate,B2B,1
+JP-16135,Julie Prescott,Home Office,B2C,1
+EB-14110,Eugene Barchas,Consumer,B2C,0
+CC-12475,Cindy Chapman,Consumer,B2C,1
+HG-15025,Hunter Glantz,Consumer,B2C,0
+LL-16840,Lauren Leatherbury,Consumer,B2C,0
+BP-11185,Ben Peterman,Corporate,B2B,1
+SO-20335,Sean O'Donnell,Consumer,B2C,1
+CS-12490,Cindy Schnelling,Corporate,B2B,0
+Dp-13240,Dean percer,Home Office,B2C,1
+LA-16780,Laura Armstrong,Corporate,B2B,0
+SS-20590,Sonia Sunley,Consumer,B2C,1
+AH-10690,Anna Häberlin,Corporate,B2B,1
+ST-20530,Shui Tom,Consumer,B2C,0
+MH-17455,Mark Hamilton,Consumer,B2C,1
+RH-19600,Rob Haberlin,Consumer,B2C,0
+RD-19930,Russell D'Ascenzo,Consumer,B2C,1
+CC-12550,Clay Cheatham,Consumer,B2C,1
+GT-14755,Guy Thornton,Consumer,B2C,0
+JK-15640,Jim Kriz,Home Office,B2C,0
+FM-14290,Frank Merwin,Home Office,B2C,1
+AG-10300,Aleksandra Gannaway,Corporate,B2B,1
+DB-12970,Darren Budd,Corporate,B2B,0
+DB-13210,Dean Braden,Consumer,B2C,1
+ML-17410,Maris LaWare,Consumer,B2C,0
+DO-13435,Denny Ordway,Consumer,B2C,1
+JL-15235,Janet Lee,Consumer,B2C,1
+RM-19750,Roland Murray,Consumer,B2C,0
+JG-15310,Jason Gross,Corporate,B2B,0
+JB-16045,Julia Barnett,Home Office,B2C,1
+DP-13390,Dennis Pardue,Home Office,B2C,1
+KL-16555,Kelly Lampkin,Corporate,B2B,1
+JG-15805,John Grady,Corporate,B2B,1
+SV-20785,Stewart Visinsky,Consumer,B2C,1
+VT-21700,Valerie Takahito,Home Office,B2C,1
+FG-14260,Frank Gastineau,Home Office,B2C,0
+JM-15655,Jim Mitchum,Corporate,B2B,0
+TB-21175,Thomas Boland,Corporate,B2B,1
+NC-18625,Noah Childs,Corporate,B2B,1
+MM-17920,Michael Moore,Consumer,B2C,1
+PV-18985,Paul Van Hugh,Home Office,B2C,0
+CB-12025,Cassandra Brandow,Consumer,B2C,1
+SW-20245,Scot Wooten,Consumer,B2C,1
+JF-15355,Jay Fein,Consumer,B2C,1
+BF-11170,Ben Ferrer,Home Office,B2C,0
+MA-17560,Matt Abelman,Home Office,B2C,1
+PF-19120,Peter Fuller,Consumer,B2C,1
+NC-18535,Nick Crebassa,Corporate,B2B,1
+SR-20740,Steven Roelle,Home Office,B2C,1
+LS-16945,Linda Southworth,Corporate,B2B,0
+ME-17320,Maria Etezadi,Home Office,B2C,1
+KB-16585,Ken Black,Corporate,B2B,1
+MB-17305,Maria Bertelson,Consumer,B2C,1
+WB-21850,William Brown,Consumer,B2C,1
+SS-20875,Sung Shariari,Consumer,B2C,0
+AG-10330,Alex Grayson,Consumer,B2C,1
+RR-19315,Ralph Ritter,Consumer,B2C,0
+JL-15835,John Lee,Consumer,B2C,1
+MW-18220,Mitch Webber,Consumer,B2C,0
+SN-20710,Steve Nguyen,Home Office,B2C,0
+AA-10645,Anna Andreadi,Consumer,B2C,1
+CA-12055,Cathy Armstrong,Home Office,B2C,0
+GW-14605,Giulietta Weimer,Consumer,B2C,1
+BG-11740,Bruce Geld,Consumer,B2C,1
+JB-16000,Joy Bell-,Consumer,B2C,1
+NL-18310,Nancy Lomonaco,Home Office,B2C,0
+Co-12640,Corey-Lock,Consumer,B2C,0
+KH-16330,Katharine Harms,Corporate,B2B,1
+MV-18190,Mike Vittorini,Consumer,B2C,1
+NR-18550,Nick Radford,Consumer,B2C,1
+LH-16900,Lena Hernandez,Consumer,B2C,1
+DL-13495,Dionis Lloyd,Corporate,B2B,0
+CS-11860,Cari Schnelling,Consumer,B2C,1
+MH-18025,Michelle Huthwaite,Consumer,B2C,0
+JO-15145,Jack O'Briant,Corporate,B2B,1
+MP-18175,Mike Pelletier,Home Office,B2C,1
+BM-11575,Brendan Murry,Corporate,B2B,0
+JD-16015,Joy Daniels,Consumer,B2C,1
+AB-10015,Aaron Bergman,Consumer,B2C,1
+AH-10210,Alan Hwang,Consumer,B2C,1
+CV-12295,Christina VanderZanden,Consumer,B2C,1
+SC-20260,Scott Cohen,Corporate,B2B,0
+TP-21130,Theone Pippenger,Consumer,B2C,1
+KW-16570,Kelly Williams,Consumer,B2C,0
+PR-18880,Patrick Ryan,Consumer,B2C,0
+TH-21115,Thea Hudgings,Corporate,B2B,1
+JK-16090,Juliana Krohn,Consumer,B2C,1
+EA-14035,Erin Ashbrook,Corporate,B2B,1
+SU-20665,Stephanie Ulpright,Home Office,B2C,1
+AG-10495,Andrew Gjertsen,Corporate,B2B,1
+MM-18280,Muhammed MacIntyre,Corporate,B2B,0
+AR-10345,Alex Russell,Corporate,B2B,0
+LM-17065,Liz MacKendrick,Consumer,B2C,1
+PL-18925,Paul Lucas,Home Office,B2C,0
+BD-11635,Brian Derr,Consumer,B2C,1
+TB-21520,Tracy Blumstein,Consumer,B2C,0
+AM-10705,Anne McFarland,Consumer,B2C,0
+MG-17650,Matthew Grinstein,Home Office,B2C,0
+RB-19795,Ross Baird,Home Office,B2C,1
+AW-10930,Arthur Wiediger,Home Office,B2C,0
+DK-12835,Damala Kotsonis,Corporate,B2B,1
+AH-10195,Alan Haines,Corporate,B2B,1
+DS-13180,David Smith,Corporate,B2B,1
+JK-15730,Joe Kamberova,Consumer,B2C,1
+HM-14860,Harry Marie,Corporate,B2B,1
+SL-20155,Sara Luxemburg,Home Office,B2C,0
+TB-21355,Todd Boyes,Corporate,B2B,0
+CM-12235,Chris McAfee,Consumer,B2C,0
+CP-12340,Christine Phan,Corporate,B2B,0
+DS-13030,Darrin Sayre,Home Office,B2C,0
+SP-20650,Stephanie Phelps,Corporate,B2B,1
+SP-20545,Sibella Parks,Corporate,B2B,1
+VP-21760,Victoria Pisteka,Corporate,B2B,1
+PO-18865,Patrick O'Donnell,Consumer,B2C,0
+TW-21025,Tamara Willingham,Home Office,B2C,1
+RP-19855,Roy Phan,Corporate,B2B,1
+VM-21835,Vivian Mathis,Consumer,B2C,0
+CW-11905,Carl Weiss,Home Office,B2C,1
+CS-12505,Cindy Stewart,Consumer,B2C,0
+BN-11470,Brad Norvell,Corporate,B2B,0
+EM-13960,Eric Murdock,Consumer,B2C,1
+GA-14515,George Ashbrook,Consumer,B2C,0
+CD-11980,Carol Darley,Consumer,B2C,0
+MY-18295,Muhammed Yedwab,Corporate,B2B,1
+JK-15205,Jamie Kunitz,Consumer,B2C,0
+CM-12115,Chad McGuire,Consumer,B2C,0
+GB-14575,Giulietta Baptist,Consumer,B2C,0
+DO-13645,Doug O'Connell,Consumer,B2C,1
+SC-20020,Sam Craven,Consumer,B2C,1
+TG-21310,Toby Gnade,Consumer,B2C,1
+DD-13570,Dorothy Dickinson,Consumer,B2C,0
+SW-20755,Steven Ward,Corporate,B2B,0
+BG-11695,Brooke Gillingham,Corporate,B2B,0
+MG-17680,Maureen Gastineau,Home Office,B2C,0
+JM-15250,Janet Martin,Consumer,B2C,0
+JM-15865,John Murray,Consumer,B2C,0
+AZ-10750,Annie Zypern,Consumer,B2C,0
+SG-20470,Sheri Gordon,Consumer,B2C,0
+PS-18760,Pamela Stobb,Consumer,B2C,0
+LR-17035,Lisa Ryan,Corporate,B2B,0
+SE-20110,Sanjit Engle,Consumer,B2C,0
+EM-14065,Erin Mull,Consumer,B2C,0
+CA-12310,Christine Abelman,Corporate,B2B,0
+BT-11395,Bill Tyler,Corporate,B2B,0
+CS-12175,Charles Sheldon,Corporate,B2B,0
+KT-16480,Kean Thornton,Consumer,B2C,0
+LC-16960,Lindsay Castell,Home Office,B2C,0
+MG-17695,Maureen Gnade,Consumer,B2C,0
+JL-15505,Jeremy Lonsdale,Consumer,B2C,0
+MO-17800,Meg O'Connel,Home Office,B2C,0
+SM-20905,Susan MacKendrick,Consumer,B2C,0
+KH-16690,Kristen Hastings,Corporate,B2B,0
+LD-17005,Lisa DeCherney,Consumer,B2C,0
+JB-15925,Joni Blumstein,Consumer,B2C,0
+SZ-20035,Sam Zeldin,Home Office,B2C,1
+MC-18130,Mike Caudle,Corporate,B2B,0
+NP-18325,Naresj Patel,Consumer,B2C,1
+CA-12265,Christina Anderson,Consumer,B2C,1
+AS-10090,Adam Shillingsburg,Consumer,B2C,1
+RW-19540,Rick Wilson,Corporate,B2B,1
+SC-20230,Scot Coram,Corporate,B2B,1
+RD-19480,Rick Duston,Consumer,B2C,1
+BT-11305,Beth Thompson,Home Office,B2C,1
+AR-10405,Allen Rosenblatt,Corporate,B2B,0
+ND-18370,Natalie DeCherney,Consumer,B2C,1
+CH-12070,Cathy Hwang,Home Office,B2C,0
+JS-16030,Joy Smith,Consumer,B2C,0
+RD-19900,Ruben Dartt,Consumer,B2C,1
+AG-10390,Allen Goldenen,Consumer,B2C,1
+KB-16315,Karl Braun,Consumer,B2C,1
+BE-11410,Bobby Elias,Consumer,B2C,0
+EM-13810,Eleni McCrary,Corporate,B2B,1
+HF-14995,Herbert Flentye,Consumer,B2C,1
+TT-21265,Tim Taslimi,Corporate,B2B,0
+JG-15160,James Galang,Consumer,B2C,1
+RE-19450,Richard Eichhorn,Consumer,B2C,0
+AR-10825,Anthony Rawles,Corporate,B2B,1
+SM-20950,Suzanne McNair,Corporate,B2B,1
+TB-21280,Toby Braunhardt,Consumer,B2C,0
+VG-21790,Vivek Gonzalez,Consumer,B2C,1
+ES-14080,Erin Smith,Corporate,B2B,1
+BN-11515,Bradley Nguyen,Consumer,B2C,0
+RF-19345,Randy Ferguson,Corporate,B2B,1
+AB-10165,Alan Barnes,Consumer,B2C,0
+EM-13825,Elizabeth Moffitt,Corporate,B2B,1
+HW-14935,Helen Wasserman,Corporate,B2B,0
+ML-17395,Marina Lichtenstein,Corporate,B2B,1
+SB-20290,Sean Braxton,Corporate,B2B,0
+JW-15955,Joni Wasserman,Consumer,B2C,0
+MH-17620,Matt Hagelstein,Corporate,B2B,1
+JK-15625,Jim Karlsson,Consumer,B2C,1
+NC-18415,Nathan Cano,Consumer,B2C,0
+DW-13195,David Wiener,Corporate,B2B,0
+DW-13540,Don Weiss,Consumer,B2C,1
+CC-12370,Christopher Conant,Consumer,B2C,1
+MS-17770,Maxwell Schwartz,Consumer,B2C,1
+DK-12895,Dana Kaydos,Consumer,B2C,0
+JC-15775,John Castell,Consumer,B2C,0
+PO-18850,Patrick O'Brill,Consumer,B2C,1
+SC-20095,Sanjit Chand,Consumer,B2C,1
+TN-21040,Tanja Norvell,Home Office,B2C,1
+AH-10120,Adrian Hane,Home Office,B2C,1
+DB-13555,Dorothy Badders,Corporate,B2B,1
+TS-21160,Theresa Swint,Corporate,B2B,0
+SC-20380,Shahid Collister,Consumer,B2C,1
+TB-21625,Trudy Brown,Consumer,B2C,1
+KN-16390,Katherine Nockton,Corporate,B2B,1
+MC-17605,Matt Connell,Corporate,B2B,1
+JM-15580,Jill Matthias,Consumer,B2C,0
+SH-19975,Sally Hughsby,Corporate,B2B,1
+FC-14335,Fred Chung,Corporate,B2B,1
+DP-13000,Darren Powers,Consumer,B2C,1
+DL-12865,Dan Lawera,Consumer,B2C,0
+LS-17230,Lycoris Saunders,Consumer,B2C,0
+DM-13525,Don Miller,Corporate,B2B,1
+CK-12205,Chloris Kastensmidt,Consumer,B2C,1
+CK-12595,Clytie Kelty,Consumer,B2C,0
+PS-18970,Paul Stevenson,Home Office,B2C,0
+AT-10435,Alyssa Tate,Home Office,B2C,1
+TG-21640,Trudy Glocke,Consumer,B2C,1
+HR-14770,Hallie Redmond,Home Office,B2C,1
+LC-17050,Liz Carlisle,Consumer,B2C,1
+KT-16465,Kean Takahito,Consumer,B2C,0
+GD-14590,Giulietta Dortch,Corporate,B2B,1
+AY-10555,Andy Yotov,Corporate,B2B,0
+KN-16705,Kristina Nunn,Home Office,B2C,0
+SS-20140,Saphhira Shifley,Corporate,B2B,0
+JH-15910,Jonathan Howell,Consumer,B2C,0
+RM-19675,Robert Marley,Home Office,B2C,0
+BB-11545,Brenda Bowman,Corporate,B2B,1
+ME-17725,Max Engle,Consumer,B2C,0
+AI-10855,Arianne Irving,Consumer,B2C,0
+TP-21565,Tracy Poddar,Corporate,B2B,1
+BF-11275,Beth Fritzler,Corporate,B2B,0
+TC-21535,Tracy Collins,Home Office,B2C,1
+AB-10105,Adrian Barton,Consumer,B2C,1
+SJ-20500,Shirley Jackson,Consumer,B2C,0
+MA-17995,Michelle Arnett,Home Office,B2C,1
+JD-16060,Julia Dunbar,Consumer,B2C,0
+FH-14350,Fred Harton,Consumer,B2C,0
+TS-21370,Todd Sumrall,Corporate,B2B,1
+AH-10465,Amy Hunt,Consumer,B2C,1
+JH-16180,Justin Hirsh,Consumer,B2C,1
+EB-13750,Edward Becker,Corporate,B2B,0
+EJ-13720,Ed Jacobs,Consumer,B2C,0
+SV-20815,Stuart Van,Corporate,B2B,0
+TB-21055,Ted Butterfield,Consumer,B2C,0
+DE-13255,Deanra Eno,Home Office,B2C,0
+BG-11035,Barry Gonzalez,Consumer,B2C,1
+CC-12610,Corey Catlett,Corporate,B2B,1
+JS-15595,Jill Stevenson,Corporate,B2B,1
+TA-21385,Tom Ashbrook,Home Office,B2C,1
+HM-14980,Henry MacAllister,Consumer,B2C,0
+TB-21190,Thomas Brumley,Home Office,B2C,0
+JA-15970,Joseph Airdo,Consumer,B2C,1
+SG-20890,Susan Gilcrest,Corporate,B2B,0
+EH-13765,Edward Hooks,Corporate,B2B,0
+LB-16795,Laurel Beltran,Home Office,B2C,1
+TS-21655,Trudy Schmidt,Consumer,B2C,1
+TS-21205,Thomas Seio,Corporate,B2B,0
+CR-12580,Clay Rozendal,Home Office,B2C,0
+BS-11365,Bill Shonely,Corporate,B2B,0
+NP-18670,Nora Paige,Consumer,B2C,0
+DM-12955,Dario Medina,Corporate,B2B,0
+SF-20065,Sandra Flanagan,Consumer,B2C,1
+MR-17545,Mathew Reese,Home Office,B2C,1
+SR-20425,Sharelle Roach,Home Office,B2C,0
+DH-13075,Dave Hallsten,Corporate,B2B,0
+DP-13105,Dave Poirier,Corporate,B2B,0
+BT-11440,Bobby Trafton,Consumer,B2C,0
+NF-18475,Neil Französisch,Home Office,B2C,0
+ED-13885,Emily Ducich,Home Office,B2C,0
+FW-14395,Fred Wasserman,Corporate,B2B,1
+KM-16660,Khloe Miller,Consumer,B2C,0
+SC-20305,Sean Christensen,Consumer,B2C,0
+SM-20005,Sally Matthias,Consumer,B2C,0
+HG-14845,Harry Greene,Consumer,B2C,0
+NF-18385,Natalie Fritzler,Consumer,B2C,0
+MM-18055,Michelle Moray,Consumer,B2C,0
+RP-19270,Rachel Payne,Corporate,B2B,0
+RS-19870,Roy Skaria,Home Office,B2C,0
+TB-21250,Tim Brockman,Consumer,B2C,0
+EB-13930,Eric Barreto,Consumer,B2C,0
+MS-17980,Michael Stewart,Corporate,B2B,1
+SP-20620,Stefania Perrino,Corporate,B2B,1
+CS-11845,Cari Sayre,Corporate,B2B,0
+LC-16930,Linda Cazamias,Corporate,B2B,0
+RO-19780,Rose O'Brian,Consumer,B2C,1
+CB-12415,Christy Brittain,Consumer,B2C,1
+RD-19720,Roger Demir,Consumer,B2C,1
+NH-18610,Nicole Hansen,Corporate,B2B,0
+AR-10510,Andrew Roberts,Consumer,B2C,0
+BP-11050,Barry Pond,Corporate,B2B,0
+SB-20170,Sarah Bern,Consumer,B2C,0
+MC-18100,Mick Crebagga,Consumer,B2C,1
+AG-10525,Andy Gerbode,Corporate,B2B,1
+HD-14785,Harold Dahlen,Home Office,B2C,0
+KD-16615,Ken Dana,Corporate,B2B,0
+PB-18805,Patrick Bzostek,Home Office,B2C,0
+BT-11485,Brad Thomas,Home Office,B2C,0
+KM-16375,Katherine Murray,Home Office,B2C,1
+LO-17170,Lori Olson,Corporate,B2B,1
+CP-12085,Cathy Prescott,Corporate,B2B,1
+EB-14170,Evan Bailliet,Consumer,B2C,1
+BH-11710,Brosina Hoffman,Consumer,B2C,1
+KD-16495,Keith Dawkins,Corporate,B2B,1
+MC-17275,Marc Crier,Consumer,B2C,0
+BS-11380,Bill Stewart,Corporate,B2B,1
+PG-18895,Paul Gonzalez,Consumer,B2C,0
+RB-19465,Rick Bensley,Home Office,B2C,1
+NP-18685,Nora Pelletier,Home Office,B2C,1
+RL-19615,Rob Lucas,Consumer,B2C,1
+MF-17665,Maureen Fritzler,Corporate,B2B,1
+LH-17155,Logan Haushalter,Consumer,B2C,0
+CA-11965,Carol Adams,Corporate,B2B,0
+JG-15115,Jack Garza,Consumer,B2C,1
+LW-17215,Luke Weiss,Consumer,B2C,1
+HE-14800,Harold Engle,Corporate,B2B,0
+JH-15820,John Huston,Consumer,B2C,0
+HG-14965,Henry Goldwyn,Corporate,B2B,1
+PW-19240,Pierre Wener,Consumer,B2C,0
+NW-18400,Natalie Webber,Consumer,B2C,0
+GM-14500,Gene McClure,Consumer,B2C,0
+PJ-19015,Pauline Johnson,Consumer,B2C,1
+SF-20965,Sylvia Foulston,Corporate,B2B,1
+RS-19765,Roland Schwarz,Corporate,B2B,1
+TZ-21580,Tracy Zic,Consumer,B2C,0
+CM-12715,Craig Molinari,Corporate,B2B,1
+CR-12820,Cyra Reiten,Home Office,B2C,0
+KD-16345,Katherine Ducich,Consumer,B2C,0
+NB-18655,Nona Balk,Corporate,B2B,0
+JW-15220,Jane Waco,Corporate,B2B,0
+SC-20050,Sample Company A,Home Office,B2C,0
+FH-14365,Fred Hopkins,Corporate,B2B,1
+VF-21715,Vicky Freymann,Home Office,B2C,1
+EH-14185,Evan Henry,Consumer,B2C,0
+AH-10585,Angele Hood,Consumer,B2C,0
+DB-13405,Denny Blanton,Consumer,B2C,0
+JS-15880,John Stevenson,Consumer,B2C,0
+VS-21820,Vivek Sundaresam,Consumer,B2C,0
+PB-19105,Peter Bühler,Consumer,B2C,0
+BW-11065,Barry Weirich,Consumer,B2C,0
+TH-21100,Thea Hendricks,Consumer,B2C,0
+MH-17440,Mark Haberlin,Corporate,B2B,0
+AG-10765,Anthony Garverick,Home Office,B2C,0
+LW-17125,Liz Willingham,Consumer,B2C,0
+CD-12280,Christina DeMoss,Consumer,B2C,0
+CM-12385,Christopher Martinez,Consumer,B2C,0
+BF-11080,Bart Folk,Consumer,B2C,0
+EC-14050,Erin Creighton,Consumer,B2C,0
+FC-14245,Frank Carlisle,Home Office,B2C,1

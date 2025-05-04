@@ -1,0 +1,396 @@
+LOCATION_ID,CITY,STATE,REGION,COUNTRY,POSTAL_CODE,LATITUDE,LONGITUDE
+1301,Burlington,Vermont,East,United States,,,
+1401,Cheyenne,Wyoming,West,United States,82001,41.141281,-104.80208
+1402,Wheeling,West Virginia,East,United States,26003,40.071472,-80.6868
+1403,Appleton,Wisconsin,Central,United States,54915,44.244753,-88.37783
+1404,Waukesha,Wisconsin,Central,United States,53186,43.015289,-88.20924
+1405,Franklin,Wisconsin,Central,United States,53132,42.896145,-88.00891
+1406,Madison,Wisconsin,Central,United States,53711,43.036696,-89.44499
+1407,Wausau,Wisconsin,Central,United States,54401,44.958382,-89.6693
+1408,Green Bay,Wisconsin,Central,United States,54302,44.505782,-87.97947
+1409,Eau Claire,Wisconsin,Central,United States,54703,44.82961,-91.50521
+1410,Kenosha,Wisconsin,Central,United States,53142,42.559823,-87.87878
+1411,Milwaukee,Wisconsin,Central,United States,53209,43.11941,-87.94727
+1412,Olympia,Washington,West,United States,98502,47.071484,-122.97702
+1413,Seattle,Washington,West,United States,98105,47.66377,-122.30118
+1414,Seattle,Washington,West,United States,98103,47.671346,-122.34166
+1415,Seattle,Washington,West,United States,98115,47.68382,-122.30122
+1416,Edmonds,Washington,West,United States,98026,47.821568,-122.33651
+1417,Redmond,Washington,West,United States,98052,47.677471,-122.12138
+1418,Bellingham,Washington,West,United States,98226,48.759079,-122.43597
+1419,Des Moines,Washington,West,United States,98198,47.397521,-122.315
+1420,Spokane,Washington,West,United States,99207,47.693741,-117.38829
+1421,Arlington,Virginia,South,United States,22204,38.860247,-77.09627
+1422,Harrisonburg,Virginia,South,United States,22801,38.426786,-78.88153
+1423,Salem,Virginia,South,United States,24153,37.288807,-80.07821
+1424,Hampton,Virginia,South,United States,23666,37.050946,-76.40711
+1425,Bellevue,Washington,West,United States,98006,47.562975,-122.1526
+1426,Marysville,Washington,West,United States,98270,48.061269,-122.1588
+1427,Charlottesville,Virginia,South,United States,22901,38.072402,-78.50149
+1428,Chesapeake,Virginia,South,United States,23320,36.761698,-76.24511
+1429,Richmond,Virginia,South,United States,23223,37.544746,-77.40085
+1430,Springfield,Virginia,South,United States,22153,38.745164,-77.23535
+1431,Alexandria,Virginia,South,United States,22304,38.813013,-77.11667
+1432,Virginia Beach,Virginia,South,United States,23464,36.799284,-76.17767
+1433,Suffolk,Virginia,South,United States,23434,36.735893,-76.59656
+1434,Newport News,Virginia,South,United States,23602,37.115698,-76.5183
+1435,Pleasant Grove,Utah,West,United States,84062,40.38584,-111.73333
+1436,Salt Lake City,Utah,West,United States,84106,40.706246,-111.85657
+1437,Draper,Utah,West,United States,84020,40.514843,-111.87294
+1438,El Paso,Texas,Central,United States,79907,31.70831,-106.32749
+1439,Odessa,Texas,Central,United States,79762,31.890374,-102.35398
+1440,Amarillo,Texas,Central,United States,79109,35.171903,-101.87581
+1441,Austin,Texas,Central,United States,78745,30.207559,-97.79575
+1442,Fort Worth,Texas,Central,United States,76106,32.798429,-97.354
+1443,Dallas,Texas,Central,United States,75217,32.72238,-96.67582
+1444,Dallas,Texas,Central,United States,75220,32.867977,-96.86306
+1445,Frisco,Texas,Central,United States,75034,33.143792,-96.83938
+1446,Plano,Texas,Central,United States,75023,33.054671,-96.73506
+1447,Grand Prairie,Texas,Central,United States,75051,32.728982,-97.00428
+1448,Carrollton,Texas,Central,United States,75007,33.00542,-96.89773
+1449,Dallas,Texas,Central,United States,75081,32.948974,-96.70916
+1450,Baytown,Texas,Central,United States,77520,29.74877,-94.94389
+1451,Laredo,Texas,Central,United States,78041,27.542244,-99.49233
+1452,Texas City,Texas,Central,United States,77590,29.395283,-94.91759
+1453,Houston,Texas,Central,United States,77036,29.70053,-95.53514
+1454,Knoxville,Tennessee,South,United States,37918,36.046598,-83.92511
+1455,Memphis,Tennessee,South,United States,38109,35.050286,-90.07523
+1456,Nashville,Tennessee,South,United States,37211,36.079259,-86.72584
+1457,Johnson City,Tennessee,South,United States,37604,36.312633,-82.3802
+1458,Chattanooga,Tennessee,South,United States,37421,35.028574,-85.15939
+1459,Orem,Utah,West,United States,84057,40.311854,-111.70561
+1460,Lehi,Utah,West,United States,84043,40.366648,-111.89052
+1461,Brownsville,Texas,Central,United States,78521,25.918758,-97.42739
+1462,Round Rock,Texas,Central,United States,78664,30.514401,-97.65549
+1463,San Antonio,Texas,Central,United States,78207,29.423932,-98.5235
+1464,Corpus Christi,Texas,Central,United States,78415,27.727083,-97.4289
+1465,Arlington,Texas,Central,United States,76017,32.659277,-97.16435
+1466,Mansfield,Texas,Central,United States,76063,32.57701,-97.13485
+1467,Haltom City,Texas,Central,United States,76117,32.805379,-97.27036
+1468,Garland,Texas,Central,United States,75043,32.854893,-96.60211
+1469,Coppell,Texas,Central,United States,75019,32.967341,-96.98656
+1470,Irving,Texas,Central,United States,75061,32.826729,-96.9614
+1471,The Colony,Texas,Central,United States,75056,33.081421,-96.88957
+1472,Cedar Hill,Texas,Central,United States,75104,32.588536,-96.94949
+1473,Allen,Texas,Central,United States,75002,33.092846,-96.62447
+1474,Richardson,Texas,Central,United States,75080,32.969523,-96.74093
+1475,Missouri City,Texas,Central,United States,77489,29.601141,-95.51772
+1476,Pasadena,Texas,Central,United States,77506,29.705678,-95.20216
+1477,Huntsville,Texas,Central,United States,77340,30.680641,-95.50776
+1478,League City,Texas,Central,United States,77573,29.502759,-95.08906
+1479,Pearland,Texas,Central,United States,77581,29.56218,-95.26982
+1480,Bryan,Texas,Central,United States,77803,30.678097,-96.37639
+1481,Waco,Texas,Central,United States,76706,31.514267,-97.11807
+1482,Houston,Texas,Central,United States,77070,29.978801,-95.57655
+1483,Houston,Texas,Central,United States,77041,29.85873,-95.57243
+1484,Houston,Texas,Central,United States,77095,29.896656,-95.64842
+1485,Conroe,Texas,Central,United States,77301,30.313308,-95.45085
+1486,San Angelo,Texas,Central,United States,76903,31.468911,-100.4387
+1487,Columbia,Tennessee,South,United States,38401,35.619784,-87.03565
+1488,Franklin,Tennessee,South,United States,37064,35.893823,-86.89919
+1489,Bristol,Tennessee,South,United States,37620,36.561341,-82.16869
+1490,Clarksville,Tennessee,South,United States,37042,36.58068,-87.4056
+1491,Murfreesboro,Tennessee,South,United States,37130,35.860152,-86.3648
+1492,Florence,South Carolina,South,United States,29501,34.195705,-79.80977
+1493,Columbia,South Carolina,South,United States,29203,34.066271,-81.02492
+1494,Warwick,Rhode Island,East,United States,02886,41.705478,-71.45119
+1495,Reading,Pennsylvania,East,United States,19601,40.348092,-75.93577
+1496,Philadelphia,Pennsylvania,East,United States,19140,40.012212,-75.14503
+1497,Philadelphia,Pennsylvania,East,United States,19120,40.033944,-75.12118
+1498,Springfield,Oregon,West,United States,97477,44.061057,-123.01769
+1499,Salem,Oregon,West,United States,97301,44.926644,-122.98694
+1500,Eugene,Oregon,West,United States,97405,44.004396,-123.12203
+1501,Broken Arrow,Oklahoma,Central,United States,74012,36.045907,-95.80694
+1502,Tulsa,Oklahoma,Central,United States,74133,36.04309,-95.88417
+1503,Oklahoma City,Oklahoma,Central,United States,73120,35.579488,-97.56496
+1504,Troy,Ohio,East,United States,45373,40.036525,-84.20629
+1505,Springfield,Ohio,East,United States,45503,39.94831,-83.78205
+1506,Providence,Rhode Island,East,United States,02908,41.839296,-71.43802
+1507,Cranston,Rhode Island,East,United States,02920,41.7715,-71.46485
+1508,Philadelphia,Pennsylvania,East,United States,19143,39.944162,-75.22718
+1509,Philadelphia,Pennsylvania,East,United States,19134,39.991712,-75.11116
+1510,Bethlehem,Pennsylvania,East,United States,18018,40.625444,-75.38831
+1511,Lancaster,Pennsylvania,East,United States,17602,40.032664,-76.27575
+1512,Medford,Oregon,West,United States,97504,42.334496,-122.83547
+1513,Redmond,Oregon,West,United States,97756,44.272796,-121.19173
+1514,Hillsboro,Oregon,West,United States,97123,45.491024,-122.95745
+1515,Portland,Oregon,West,United States,97206,45.482341,-122.60007
+1516,Fairfield,Ohio,East,United States,45014,39.330356,-84.55277
+1517,Cincinnati,Ohio,East,United States,45231,39.242608,-84.5453
+1518,Bowling Green,Ohio,East,United States,43402,41.388519,-83.65795
+1519,Marion,Ohio,East,United States,43302,40.589747,-83.12173
+1520,Cuyahoga Falls,Ohio,East,United States,44221,41.141456,-81.47928
+1521,Rochester,New York,East,United States,14609,43.175113,-77.56272
+1522,Watertown,New York,East,United States,13601,43.976735,-75.91199
+1523,New York City,New York,East,United States,10035,40.802395,-73.93359
+1524,Henderson,Nevada,West,United States,89015,36.030927,-114.96787
+1525,Farmington,New Mexico,West,United States,87401,36.625357,-108.19225
+1526,Albuquerque,New Mexico,West,United States,87105,35.031329,-106.68695
+1527,Las Cruces,New Mexico,West,United States,88001,32.300193,-106.76078
+1528,Linden,New Jersey,East,United States,07036,40.633953,-74.25339
+1529,Orange,New Jersey,East,United States,07050,40.7683,-74.23603
+1530,Plainfield,New Jersey,East,United States,07060,40.620102,-74.42481
+1531,Lakewood,New Jersey,East,United States,08701,40.082782,-74.2094
+1532,Vineland,New Jersey,East,United States,08360,39.492265,-75.01887
+1533,Paterson,New Jersey,East,United States,07501,40.912198,-74.16863
+1534,Concord,New Hampshire,East,United States,03301,43.213705,-71.53774
+1535,Columbus,Ohio,East,United States,43229,40.085313,-82.97326
+1536,Toledo,Ohio,East,United States,43615,41.6522,-83.67037
+1537,Lakewood,Ohio,East,United States,44107,41.480881,-81.80036
+1538,Cleveland,Ohio,East,United States,44105,41.450602,-81.62216
+1539,Akron,Ohio,East,United States,44312,41.034156,-81.43944
+1540,Medina,Ohio,East,United States,44256,41.139849,-81.85646
+1541,Newark,Ohio,East,United States,43055,40.079115,-82.40054
+1542,Lancaster,Ohio,East,United States,43130,39.712887,-82.61216
+1543,Lorain,Ohio,East,United States,44052,41.459218,-82.1691
+1544,Dublin,Ohio,East,United States,43017,40.109478,-83.12713
+1545,Yonkers,New York,East,United States,10701,40.943525,-73.88176
+1546,Long Beach,New York,East,United States,11561,40.588154,-73.66517
+1547,Hempstead,New York,East,United States,11550,40.702271,-73.61741
+1548,Oceanside,New York,East,United States,11572,40.636286,-73.6374
+1549,Troy,New York,East,United States,12180,42.731628,-73.66465
+1550,Rome,New York,East,United States,13440,43.217069,-75.45531
+1551,Auburn,New York,East,United States,13021,42.922273,-76.55882
+1552,New York City,New York,East,United States,10009,40.727093,-73.97864
+1553,New York City,New York,East,United States,10011,40.741012,-74.00012
+1554,New York City,New York,East,United States,10024,40.786387,-73.97709
+1555,Buffalo,New York,East,United States,14215,42.934757,-78.8118
+1556,North Las Vegas,Nevada,West,United States,89031,36.256479,-115.16139
+1557,Reno,Nevada,West,United States,89502,39.499862,-119.77497
+1558,Belleville,New Jersey,East,United States,07109,40.7935,-74.16144
+1559,Westfield,New Jersey,East,United States,07090,40.649202,-74.34567
+1560,Nashua,New Hampshire,East,United States,03060,42.748888,-71.46492
+1561,Dover,New Hampshire,East,United States,03820,43.190984,-70.88787
+1562,Fremont,Nebraska,Central,United States,68025,41.434796,-96.48869
+1563,Wilmington,North Carolina,South,United States,28403,34.221512,-77.88452
+1564,Cary,North Carolina,South,United States,27511,35.755651,-78.77508
+1565,Charlotte,North Carolina,South,United States,28205,35.222406,-80.79221
+1566,Southaven,Mississippi,South,United States,38671,34.96848,-89.99793
+1567,Omaha,Nebraska,Central,United States,68104,41.292445,-96.0006
+1568,Fayetteville,North Carolina,South,United States,28314,35.060087,-79.00848
+1569,Jacksonville,North Carolina,South,United States,28540,34.755669,-77.4559
+1570,Greenville,North Carolina,South,United States,27834,35.626653,-77.37896
+1571,Durham,North Carolina,South,United States,27707,35.963994,-78.93602
+1572,Raleigh,North Carolina,South,United States,27604,35.814572,-78.58348
+1573,Monroe,North Carolina,South,United States,28110,35.031947,-80.56002
+1574,Wilson,North Carolina,South,United States,27893,35.715315,-77.91989
+1575,Burlington,North Carolina,South,United States,27217,36.132737,-79.41135
+1576,Greensboro,North Carolina,South,United States,27405,36.107499,-79.75242
+1577,Thomasville,North Carolina,South,United States,27360,35.871,-80.08603
+1578,Jackson,Mississippi,South,United States,39212,32.234627,-90.26331
+1579,Hattiesburg,Mississippi,South,United States,39401,31.285508,-89.2799
+1580,Springfield,Missouri,Central,United States,65807,37.168435,-93.31297
+1581,Rochester,Minnesota,Central,United States,55901,44.048931,-92.49459
+1582,Saint Paul,Minnesota,Central,United States,55106,44.967565,-93.05001
+1583,Lakeville,Minnesota,Central,United States,55044,44.669564,-93.26654
+1584,Moorhead,Minnesota,Central,United States,56560,46.861413,-96.75367
+1585,Saginaw,Michigan,Central,United States,48601,43.413975,-83.91427
+1586,Midland,Michigan,Central,United States,48640,43.605457,-84.27234
+1587,Ann Arbor,Michigan,Central,United States,48104,42.266805,-83.72297
+1588,Sterling Heights,Michigan,Central,United States,48310,42.563644,-83.07158
+1589,Detroit,Michigan,Central,United States,48227,42.388786,-83.1918
+1590,Rockville,Maryland,East,United States,20852,39.0509,-77.12261
+1591,Gaithersburg,Maryland,East,United States,20877,39.13975,-77.18568
+1592,Clinton,Maryland,East,United States,20735,38.753264,-76.89913
+1593,Saint Louis,Missouri,Central,United States,63116,38.580552,-90.26307
+1594,Kirkwood,Missouri,Central,United States,63122,38.582702,-90.40966
+1595,Saint Charles,Missouri,Central,United States,63301,38.808583,-90.50687
+1596,Woodbury,Minnesota,Central,United States,55125,44.921982,-92.94234
+1597,Apple Valley,Minnesota,Central,United States,55124,44.743963,-93.20624
+1598,Eagan,Minnesota,Central,United States,55122,44.804548,-93.19871
+1599,Minneapolis,Minnesota,Central,United States,55407,44.934915,-93.25424
+1600,Lansing,Michigan,Central,United States,48911,42.677335,-84.56913
+1601,Jackson,Michigan,Central,United States,49201,42.252268,-84.38842
+1602,Holland,Michigan,Central,United States,49423,42.765918,-86.10544
+1603,Detroit,Michigan,Central,United States,48234,42.432686,-83.04422
+1604,Oak Park,Michigan,Central,United States,48237,42.467235,-83.17952
+1605,Dearborn Heights,Michigan,Central,United States,48127,42.335687,-83.28332
+1606,Trenton,Michigan,Central,United States,48183,42.137071,-83.21446
+1607,Detroit,Michigan,Central,United States,48205,42.433703,-82.98068
+1608,Bangor,Maine,East,United States,04401,44.81777,-68.78952
+1609,Baltimore,Maryland,East,United States,21215,39.345456,-76.68038
+1610,Columbia,Maryland,East,United States,21044,39.21536,-76.87823
+1611,Quincy,Massachusetts,East,United States,02169,42.250739,-70.99593
+1612,Holyoke,Massachusetts,East,United States,01040,42.201891,-72.6242
+1613,Everett,Massachusetts,East,United States,02149,42.409916,-71.0522
+1614,Lowell,Massachusetts,East,United States,01852,42.634112,-71.29849
+1615,Owensboro,Kentucky,South,United States,42301,37.753347,-87.17419
+1616,Georgetown,Kentucky,South,United States,40324,38.221179,-84.55465
+1617,Lafayette,Indiana,Central,United States,47905,40.41836,-86.81847
+1618,New Castle,Indiana,Central,United States,47362,39.92698,-85.3697
+1619,Columbus,Indiana,Central,United States,47201,39.185341,-85.9456
+1620,Mishawaka,Indiana,Central,United States,46544,41.650672,-86.16002
+1621,Indianapolis,Indiana,Central,United States,46203,39.742593,-86.11766
+1622,Greenwood,Indiana,Central,United States,46142,39.62068,-86.15126
+1623,La Porte,Indiana,Central,United States,46350,41.605749,-86.71983
+1624,Peoria,Illinois,Central,United States,61604,40.709237,-89.63633
+1625,Bloomington,Illinois,Central,United States,61701,40.477286,-88.99592
+1626,Revere,Massachusetts,East,United States,02151,42.416247,-71.00525
+1627,Franklin,Massachusetts,East,United States,02038,42.089104,-71.4069
+1628,Cambridge,Massachusetts,East,United States,02138,42.379146,-71.12803
+1629,Andover,Massachusetts,East,United States,01810,42.646942,-71.1513
+1630,Lawrence,Massachusetts,East,United States,01841,42.71159,-71.16667
+1631,Monroe,Louisiana,South,United States,71203,32.547067,-92.04384
+1632,Lafayette,Louisiana,South,United States,70506,30.211901,-92.05912
+1633,Louisville,Kentucky,South,United States,40214,38.160936,-85.77624
+1634,Henderson,Kentucky,South,United States,42420,37.825094,-87.56055
+1635,Richmond,Kentucky,South,United States,40475,37.745999,-84.28433
+1636,Murray,Kentucky,South,United States,42071,36.617443,-88.28746
+1637,Overland Park,Kansas,Central,United States,66212,38.959606,-94.68189
+1638,Olathe,Kansas,Central,United States,66062,38.860511,-94.77581
+1639,Garden City,Kansas,Central,United States,67846,37.976008,-100.82503
+1640,Bloomington,Indiana,Central,United States,47401,39.131576,-86.49743
+1641,Richmond,Indiana,Central,United States,47374,39.831061,-84.89067
+1642,Lawrence,Indiana,Central,United States,46226,39.83729,-86.05378
+1643,Buffalo Grove,Illinois,Central,United States,60089,42.167638,-87.96393
+1644,Romeoville,Illinois,Central,United States,60441,41.598235,-88.02753
+1645,Elmhurst,Illinois,Central,United States,60126,41.89103,-87.94181
+1646,Freeport,Illinois,Central,United States,61032,42.300918,-89.63208
+1647,Chicago,Illinois,Central,United States,60610,41.898582,-87.6371
+1648,Chicago,Illinois,Central,United States,60623,41.850232,-87.718
+1649,Chicago,Illinois,Central,United States,60653,41.819833,-87.61269
+1650,Quincy,Illinois,Central,United States,62301,39.929597,-91.37415
+1651,Boise,Idaho,West,United States,83704,43.63123,-116.28716
+1652,Meridian,Idaho,West,United States,83642,43.609434,-116.39642
+1653,Pocatello,Idaho,West,United States,83201,42.883214,-112.43968
+1654,Marion,Iowa,Central,United States,52302,42.042648,-91.58262
+1655,Columbus,Georgia,South,United States,31907,32.479492,-84.90942
+1656,Smyrna,Georgia,South,United States,30080,33.87578,-84.50382
+1657,Boynton Beach,Florida,South,United States,33437,26.522249,-80.15031
+1658,Tampa,Florida,South,United States,33614,28.006247,-82.50632
+1659,Hollywood,Florida,South,United States,33021,26.023634,-80.18922
+1660,Pembroke Pines,Florida,South,United States,33024,26.023567,-80.23851
+1661,Hialeah,Florida,South,United States,33012,25.864773,-80.30069
+1662,Miami,Florida,South,United States,33180,25.962069,-80.14465
+1663,Miami,Florida,South,United States,33178,25.837696,-80.36947
+1664,Coral Springs,Florida,South,United States,33065,26.272608,-80.25589
+1665,Palm Coast,Florida,South,United States,32137,29.581683,-81.21645
+1666,Jacksonville,Florida,South,United States,32216,30.28374,-81.58359
+1667,Newark,Delaware,East,United States,19711,39.700561,-75.7431
+1668,Wilmington,Delaware,East,United States,19805,39.745377,-75.58251
+1669,Washington,District of Columbia,East,United States,20016,38.94081,-77.08723
+1670,Fairfield,Connecticut,East,United States,06824,41.163879,-73.265744
+1671,Middletown,Connecticut,East,United States,06457,41.553672,-72.6632
+1672,Colorado Springs,Colorado,West,United States,80906,38.791242,-104.82492
+1673,Fort Collins,Colorado,West,United States,80525,40.532354,-105.0535
+1674,Longmont,Colorado,West,United States,80501,40.171484,-105.10033
+1675,Louisville,Colorado,West,United States,80027,39.963322,-105.15053
+1676,Broomfield,Colorado,West,United States,80020,39.93404,-105.05454
+1677,Aurora,Colorado,West,United States,80013,39.659105,-104.7791
+1678,Vallejo,California,West,United States,94591,38.099119,-122.21035
+1679,Santa Ana,California,West,United States,92704,33.724167,-117.90623
+1680,Anaheim,California,West,United States,92804,33.818165,-117.97304
+1681,Huntington Beach,California,West,United States,92646,33.666269,-117.9693
+1682,Morgan Hill,California,West,United States,95037,37.137595,-121.66211
+1683,Santa Clara,California,West,United States,95051,37.346241,-121.9846
+1684,San Jose,California,West,United States,95123,37.244426,-121.83246
+1685,Stockton,California,West,United States,95207,38.004172,-121.3237
+1686,San Mateo,California,West,United States,94403,37.539686,-122.30266
+1687,Sunnyvale,California,West,United States,94086,37.378341,-122.02398
+1688,San Francisco,California,West,United States,94110,37.74873,-122.41545
+1689,Salinas,California,West,United States,93905,36.681161,-121.61538
+1690,Bakersfield,California,West,United States,93309,35.340759,-119.06497
+1691,Brentwood,California,West,United States,94513,37.932123,-121.70381
+1692,Antioch,California,West,United States,94509,37.991571,-121.80207
+1693,Concord,California,West,United States,94521,37.957772,-121.97709
+1694,Vacaville,California,West,United States,95687,38.34401,-121.95333
+1695,Thousand Oaks,California,West,United States,91360,34.208837,-118.87348
+1696,La Mesa,California,West,United States,91941,32.761801,-117.01273
+1697,Chula Vista,California,West,United States,91911,32.608799,-117.0607
+1698,San Diego,California,West,United States,92105,32.741256,-117.0951
+1699,Escondido,California,West,United States,92025,33.106862,-117.07077
+1700,Manteca,California,West,United States,95336,37.812815,-121.21416
+1701,Pomona,California,West,United States,91767,34.080143,-117.73861
+1702,Los Angeles,California,West,United States,90032,34.08166,-118.17568
+1703,Los Angeles,California,West,United States,90036,34.07036,-118.34926
+1704,Los Angeles,California,West,United States,90045,33.960041,-118.3949
+1705,Los Angeles,California,West,United States,90008,34.009754,-118.33705
+1706,Citrus Heights,California,West,United States,95610,38.696912,-121.27125
+1707,Inglewood,California,West,United States,90301,33.955913,-118.35868
+1708,Pico Rivera,California,West,United States,90660,33.989013,-118.08912
+1709,Los Angeles,California,West,United States,90049,34.067409,-118.47528
+1710,Sierra Vista,Arizona,West,United States,85635,31.562546,-110.24288
+1711,Mesa,Arizona,West,United States,85204,33.400127,-111.78594
+1712,Gilbert,Arizona,West,United States,85234,33.36344,-111.75093
+1713,Glendale,Arizona,West,United States,85301,33.534128,-112.1767
+1714,Tempe,Arizona,West,United States,85281,33.426885,-111.92733
+1715,Texarkana,Arkansas,South,United States,71854,33.428618,-93.99236
+1716,Jonesboro,Arkansas,South,United States,72401,35.844795,-90.68443
+1717,Fayetteville,Arkansas,South,United States,72701,36.040467,-94.13376
+1718,Decatur,Alabama,South,United States,35601,34.595332,-86.98786
+1719,Mobile,Alabama,South,United States,36608,30.69044,-88.19701
+1720,Huntsville,Alabama,South,United States,35810,34.77624,-86.61339
+1721,Montgomery,Alabama,South,United States,36116,32.31324,-86.23672
+1722,Tinley Park,Illinois,Central,United States,60477,41.5738,-87.80389
+1723,Naperville,Illinois,Central,United States,60540,41.764779,-88.14579
+1724,Aurora,Illinois,Central,United States,60505,41.756129,-88.29699
+1725,Carol Stream,Illinois,Central,United States,60188,41.918578,-88.13688
+1726,Evanston,Illinois,Central,United States,60201,42.056391,-87.69684
+1727,Des Plaines,Illinois,Central,United States,60016,42.047178,-87.89058
+1728,Decatur,Illinois,Central,United States,62521,39.828586,-88.92907
+1729,Palatine,Illinois,Central,United States,60067,42.10979,-88.04917
+1730,Urbandale,Iowa,Central,United States,50322,41.630521,-93.7238
+1731,Des Moines,Iowa,Central,United States,50315,41.545089,-93.61904
+1732,Dubuque,Iowa,Central,United States,52001,42.515252,-90.6794
+1733,Cedar Rapids,Iowa,Central,United States,52402,42.021016,-91.65231
+1734,Athens,Georgia,South,United States,30605,33.925085,-83.34529
+1735,Sandy Springs,Georgia,South,United States,30328,33.931746,-84.37817
+1736,Atlanta,Georgia,South,United States,30318,33.786805,-84.437
+1737,Warner Robins,Georgia,South,United States,31088,32.594698,-83.64873
+1738,Macon,Georgia,South,United States,31204,32.844872,-83.67119
+1739,Marietta,Georgia,South,United States,30062,33.99605,-84.47464
+1740,Roswell,Georgia,South,United States,30076,34.032532,-84.31774
+1741,Homestead,Florida,South,United States,33030,25.479438,-80.48687
+1742,Orlando,Florida,South,United States,32839,28.489758,-81.40625
+1743,Fort Lauderdale,Florida,South,United States,33311,26.13883,-80.16865
+1744,Tamarac,Florida,South,United States,33319,26.183628,-80.22122
+1745,Margate,Florida,South,United States,33063,26.251909,-80.21016
+1746,Miami,Florida,South,United States,33142,25.812625,-80.2369
+1747,Coral Gables,Florida,South,United States,33134,25.753927,-80.27034
+1748,Lakeland,Florida,South,United States,33801,28.041198,-81.92392
+1749,Saint Petersburg,Florida,South,United States,33710,27.788637,-82.72244
+1750,Deltona,Florida,South,United States,32725,28.902426,-81.24515
+1751,Tallahassee,Florida,South,United States,32303,30.486061,-84.31528
+1752,Bristol,Connecticut,East,United States,06010,41.682249,-72.93365
+1753,Meriden,Connecticut,East,United States,06450,41.532048,-72.78145
+1754,Pueblo,Colorado,West,United States,81001,38.282872,-104.57029
+1755,Loveland,Colorado,West,United States,80538,40.435645,-105.08726
+1756,Denver,Colorado,West,United States,80219,39.698137,-105.03483
+1757,Thornton,Colorado,West,United States,80229,39.859585,-104.95943
+1758,Riverside,California,West,United States,92503,33.91355,-117.46052
+1759,Oakland,California,West,United States,94601,37.776835,-122.21792
+1760,Westminster,California,West,United States,92683,33.751418,-117.99392
+1761,Moreno Valley,California,West,United States,92553,33.923243,-117.24211
+1762,Lake Forest,California,West,United States,92630,33.640223,-117.69108
+1763,La Quinta,California,West,United States,92253,33.675373,-116.29649
+1764,Apple Valley,California,West,United States,92307,34.538622,-117.17729
+1765,San Francisco,California,West,United States,94109,37.792778,-122.42188
+1766,San Francisco,California,West,United States,94122,37.75838,-122.48478
+1767,Oxnard,California,West,United States,93030,34.21707,-119.1769
+1768,Santa Barbara,California,West,United States,93101,34.420163,-119.7065
+1769,Lancaster,California,West,United States,93534,34.698696,-118.15015
+1770,Danville,California,West,United States,94526,37.811676,-121.98647
+1771,Chico,California,West,United States,95928,39.720955,-121.81888
+1772,Sacramento,California,West,United States,95823,38.477508,-121.44561
+1773,Rancho Cucamonga,California,West,United States,91730,34.104555,-117.58734
+1774,Pasadena,California,West,United States,91104,34.169356,-118.12392
+1775,El Cajon,California,West,United States,92020,32.7991,-116.97334
+1776,San Diego,California,West,United States,92037,32.838761,-117.26159
+1777,San Diego,California,West,United States,92024,33.053092,-117.26855
+1778,Encinitas,California,West,United States,92024,33.053092,-117.26855
+1779,Oceanside,California,West,United States,92054,33.202463,-117.36077
+1780,Modesto,California,West,United States,95351,37.626067,-120.99955
+1781,Los Angeles,California,West,United States,90004,34.07711,-118.30755
+1782,Redondo Beach,California,West,United States,90278,33.871214,-118.37177
+1783,Lakewood,California,West,United States,90712,33.851965,-118.1468
+1784,Torrance,California,West,United States,90503,33.840264,-118.35587
+1785,Long Beach,California,West,United States,90805,33.865916,-118.18362
+1786,Tucson,Arizona,West,United States,85705,32.260316,-110.98534
+1787,Phoenix,Arizona,West,United States,85023,33.638271,-112.09341
+1788,Scottsdale,Arizona,West,United States,85254,33.617504,-111.95416
+1789,Yuma,Arizona,West,United States,85364,32.704499,-114.64644
+1790,Peoria,Arizona,West,United States,85345,33.573602,-112.23984
+1791,Conway,Arkansas,South,United States,72032,35.075467,-92.43401
+1792,Little Rock,Arkansas,South,United States,72209,34.674192,-92.35557
+1793,Springdale,Arkansas,South,United States,72762,36.186059,-94.1937
+1794,Florence,Alabama,South,United States,35630,34.817537,-87.66253
